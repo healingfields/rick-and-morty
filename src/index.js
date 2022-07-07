@@ -10,7 +10,7 @@ function App() {
             <List />
         </div>
     )
-};
+}
 
 const container = document.getElementById("app");
 const root = ReactDom.createRoot(container);
